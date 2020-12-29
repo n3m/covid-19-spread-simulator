@@ -704,3 +704,11 @@ int main()
 	printf("\n");
 	return 0;
 }
+
+
+/*Authors:
+- Alan Enrique Maldonado Navarro
+- Guillermo Gonzalez Mena
+
+Repository: https://github.com/DrN3MESiS/covid-19-spread-simulator
+*/
